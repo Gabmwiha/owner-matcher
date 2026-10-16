@@ -1,0 +1,4 @@
+id,name,email,team
+a1,billing-bot,billing@acme.io,Finance
+a2,ci-runner,devops@acme.io,Platform
+a3,old-marketing,jane.d@acme.io,Marketing
